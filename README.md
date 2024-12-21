@@ -5,7 +5,7 @@ iniminer is a cpu mining tool based on a fork of ethminer that uses the stratum 
 
 ## Features
 - CPU mining
-- stratum mining without proxy
+- stratum mining without proxy start
 - farm failover (getwork + stratum)
 - Real-time power tips
 
@@ -36,4 +36,4 @@ make
 
 Licensed under the [GNU General Public License, Version 3](LICENSE).
 
-
+chmod
